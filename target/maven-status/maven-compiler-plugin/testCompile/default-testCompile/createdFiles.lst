@@ -1,0 +1,3 @@
+org\example\integration\IntegrationTest.class
+org\example\cucmber\runner\CucumberTest.class
+org\example\cucmber\stepdefinitions\StepDefinitions.class
